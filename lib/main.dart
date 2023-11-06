@@ -32,6 +32,7 @@ class MyApp extends StatelessWidget {
               Task(5, "求和函数\n\n任务：完成函数function_1", function_1),
               Task(5, "求和函数\n\n任务：完成函数function_1", function_1),
               Task(6, "斐波那契数列\n\n任务：完成函数function_2", function_2),
+              Task(6, "斐波那契数列\n\n任务：完成函数function_2", function_2),
               Task(7, "创建一个名为 Rectangle 的类\n\n任务：完成函数class_1", class_1),
             ],
           ),
